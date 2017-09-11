@@ -5,7 +5,8 @@
 执行build.bat，会生成xc_qq.exe，执行exe即可。
 
 ### 使用的第三方库
-https://github.com/CodyGuo/xcgui
+go get github.com/CodyGuo/xcgui
+go get github.com/akavel/rsrc
 
 ### 代码参考
 炫彩界面库 1.9.9.0版本中的QQ7.2-UI设计器实现
